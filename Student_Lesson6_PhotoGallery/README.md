@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 1, 2017
 
 ### Student Name:  
-(First and Last Name)
+Rachel Weinstock
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I was able to build an application that creates a photo gallery of images and would allow users to navigate through the pictures. I was able to add and remove document nodes and modified content on the photo.js to have two additional images displayed in gallery. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The document object model represents the web page displayed in a browser and contains all web page elements. DOM is an example of an application programming interface. 
+2. The dynamic HTML is a combination of HTML, CSS, and JavaScript. The interaction can change content of a web page without reloading. 
+3. In order to access elements by name the getElementsByName() method returns the node list or HTML collection of elements with a name attribute matching a specific value. 
