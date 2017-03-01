@@ -13,7 +13,7 @@ Rachel Weinstock
 In this assignment, I was able to build an application that creates a photo gallery of images and would allow users to navigate through the pictures. I was able to add and remove document nodes and modified content on the photo.js to have two additional images displayed in gallery. 
 
 ### View Project:
-
+https://rachelwein.github.io/lesson6_javascript3/Student_Lesson6_PhotoGallery/
 
 ### Lessons Learned in the Assignment:
 1. The document object model represents the web page displayed in a browser and contains all web page elements. DOM is an example of an application programming interface. 
